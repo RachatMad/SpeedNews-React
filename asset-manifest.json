@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RachatMad/SpeedNews-React/static/css/main.dc4d6ff2.css",
+    "main.js": "/RachatMad/SpeedNews-React/static/js/main.b34169ce.js",
+    "static/js/453.b2157c12.chunk.js": "/RachatMad/SpeedNews-React/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/RachatMad/SpeedNews-React/static/media/loading.f52987708253fab9d3f9.gif",
+    "index.html": "/RachatMad/SpeedNews-React/index.html",
+    "main.dc4d6ff2.css.map": "/RachatMad/SpeedNews-React/static/css/main.dc4d6ff2.css.map",
+    "main.b34169ce.js.map": "/RachatMad/SpeedNews-React/static/js/main.b34169ce.js.map",
+    "453.b2157c12.chunk.js.map": "/RachatMad/SpeedNews-React/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b34169ce.js"
+  ]
+}
