@@ -5,9 +5,10 @@ import { NavBar } from './components/NavBar';
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 import {
-  BrowserRouter as Router,
+  
   Route,
- Routes 
+ Routes,
+ HashRouter
 } from "react-router-dom";
 
 export default class App extends Component {
@@ -22,7 +23,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+        <HashRouter>
         <NavBar/>
         <LoadingBar
         color='#f11946'
@@ -42,7 +43,7 @@ export default class App extends Component {
 
           
         </Routes>
-        </Router>
+        </HashRouter>
       </div>
     )
   }
